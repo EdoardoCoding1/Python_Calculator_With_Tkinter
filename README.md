@@ -1,5 +1,7 @@
 # Python_Calculator_With_Tkinter
 
+--- ### :fire: My Stats
+
 # Hey there !!
 
 This is my GUI calculator I created by using the tkinter library.
